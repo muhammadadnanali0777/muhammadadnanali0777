@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Muhammad Adnan Ali
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Python, AI, ML, Blockchain
+- 💞️ I’m looking to collaborate on AI Projects
+- 📫 How to reach me l1f21mscs0035@ucp.edu.pk
